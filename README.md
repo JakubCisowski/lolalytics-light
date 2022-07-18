@@ -1,6 +1,3 @@
-# LolalyticsLight
-
-
 # Lolalytics Light
 
 Minimalism user interface mode for lolalytics.com
